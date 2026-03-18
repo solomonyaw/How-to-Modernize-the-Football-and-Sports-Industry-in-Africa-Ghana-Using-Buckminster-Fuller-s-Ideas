@@ -92,7 +92,7 @@ Special thanks to:
 - **Buckminster Fuller**, for inspiring innovative design strategies  
 - **Football talents of Africa**  
 - **The Ghana Football Association and other governing bodies**  
-- **Football journalists in Africa**, especially Citi New Sports TV and radio for their professional coverage and analysis  
+- **Football journalists in Africa**, especially Citi News Sports TV and radio for their professional coverage and analysis  
 
 ---
 
