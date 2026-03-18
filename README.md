@@ -4,9 +4,8 @@ How to Modernize the Football and Sports Industry in Africa Using Buckminster Fu
 # How to Modernize the Football and Sports Industry in Africa Using Buckminster Fuller’s Ideas
 *Case Study: Ghana’s Sports Industry*
 
-![Book Cover](./a_book_cover_illustration_for_solomon_yaw_adeklo_s.png)
+![Book Cover]! <img src= "Cover-Image(How to Modernize the Football and Sports Industry in Africa Using Buckminster Fuller’s Ideas).png" width="300px" height="300px">
 
----
 
 ## About the Book
 
@@ -48,7 +47,9 @@ The goal is to **empower players, administrators, journalists, and fans** to act
    - Smart stadiums and digital fan engagement  
 9. **Chapter 8: Geodesic Domes – Redefining Stadium Design**  
    - Eco-friendly stadium infrastructure  
-   - Cost-effective and multi-purpose design  
+   - Cost-effective and multi-purpose design
+     <img src= "Dome stadium.png" width="300px" height="300px">
+     
 10. **Chapter 9: Financial Sustainability**  
     - Diversified revenue streams  
     - Public-private partnerships  
