@@ -1,7 +1,6 @@
 # How to Modernize the Football and Sports Industry in Africa(Ghana) Using Buckminster Fuller’s Ideas
 How to Modernize the Football and Sports Industry in Africa Using Buckminster Fuller’s Ideas - Written By Solomon Yaw Adeklo
 
-# How to Modernize the Football and Sports Industry in Africa Using Buckminster Fuller’s Ideas
 *Case Study: Ghana’s Sports Industry*
 
  <img src= "Cover-Image(How to Modernize the Football and Sports Industry in Africa Using Buckminster Fuller’s Ideas).png" width="450px" height="450px">
